@@ -1,1 +1,0 @@
-spiritkonsul.github.io
