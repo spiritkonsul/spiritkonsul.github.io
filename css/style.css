@@ -27,6 +27,8 @@ body {
   text-align: center;
 }
 
+
+
 .notfound .notfound-404 {
   height: 280px;
   position: relative;
@@ -1545,4 +1547,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
   font-size: 13px;
   color: #ddd;
+}
+.text-responsive {
+  font-size: calc(100% + 1vw + 1vh);
 }
