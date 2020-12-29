@@ -105,7 +105,7 @@
   }
   
   function loaded() {
-    console.log("Contact form submission handler loaded successfully.");
+    console.log("Tidak ada error :)");
     // bind to the submit event of our form
     var forms = document.querySelectorAll("form.gform");
     for (var i = 0; i < forms.length; i++) {
