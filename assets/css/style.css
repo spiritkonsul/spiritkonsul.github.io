@@ -1300,9 +1300,9 @@ section {
 }
 
 /*--------------------------------------------------------------
-# kontak
+# hubungikami
 --------------------------------------------------------------*/
-.kontak .kontak-about h3 {
+.hubungikami .hubungikami-about h3 {
   font-size: 28px;
   margin: 0 0 10px 0;
   padding: 0;
@@ -1312,18 +1312,18 @@ section {
   color: #222222;
 }
 
-.kontak .kontak-about p {
+.hubungikami .hubungikami-about p {
   font-size: 14px;
   line-height: 24px;
   font-family: "Raleway", sans-serif;
   color: #888;
 }
 
-.kontak .social-links {
+.hubungikami .social-links {
   padding-bottom: 20px;
 }
 
-.kontak .social-links a {
+.hubungikami .social-links a {
   font-size: 18px;
   display: inline-block;
   background: #fff;
@@ -1339,29 +1339,29 @@ section {
   border: 1px solid #3498db;
 }
 
-.kontak .social-links a:hover {
+.hubungikami .social-links a:hover {
   background: #3498db;
   color: #fff;
 }
 
-.kontak .info {
+.hubungikami .info {
   color: #444444;
 }
 
-.kontak .info i {
+.hubungikami .info i {
   font-size: 32px;
   color: #3498db;
   float: left;
   line-height: 1;
 }
 
-.kontak .info p {
+.hubungikami .info p {
   padding: 0 0 10px 42px;
   line-height: 28px;
   font-size: 14px;
 }
 
-.kontak .php-email-form .validate {
+.hubungikami .php-email-form .validate {
   display: none;
   color: red;
   margin: 0 0 15px 0;
@@ -1369,7 +1369,7 @@ section {
   font-size: 13px;
 }
 
-.kontak .php-email-form .error-message {
+.hubungikami .php-email-form .error-message {
   display: none;
   color: #fff;
   background: #ed3c0d;
@@ -1378,11 +1378,11 @@ section {
   font-weight: 600;
 }
 
-.kontak .php-email-form .error-message br + br {
+.hubungikami .php-email-form .error-message br + br {
   margin-top: 25px;
 }
 
-.kontak .php-email-form .sent-message {
+.hubungikami .php-email-form .sent-message {
   display: none;
   color: #fff;
   background: #18d26e;
@@ -1391,14 +1391,14 @@ section {
   font-weight: 600;
 }
 
-.kontak .php-email-form .loading {
+.hubungikami .php-email-form .loading {
   display: none;
   background: #fff;
   text-align: center;
   padding: 15px;
 }
 
-.kontak .php-email-form .loading:before {
+.hubungikami .php-email-form .loading:before {
   content: "";
   display: inline-block;
   border-radius: 50%;
@@ -1411,22 +1411,22 @@ section {
   animation: animate-loading 1s linear infinite;
 }
 
-.kontak .php-email-form .form-group {
+.hubungikami .php-email-form .form-group {
   margin-bottom: 20px;
 }
 
-.kontak .php-email-form input, .kontak .php-email-form textarea {
+.hubungikami .php-email-form input, .hubungikami .php-email-form textarea {
   border-radius: 0;
   box-shadow: none;
   font-size: 14px;
   padding: 10px 15px;
 }
 
-.kontak .php-email-form input:focus, .kontak .php-email-form textarea:focus {
+.hubungikami .php-email-form input:focus, .hubungikami .php-email-form textarea:focus {
   border-color: #3498db;
 }
 
-.kontak .php-email-form button[type="submit"] {
+.hubungikami .php-email-form button[type="submit"] {
   background: #3498db;
   border: 0;
   padding: 10px 24px;
@@ -1435,7 +1435,7 @@ section {
   border-radius: 50px;
 }
 
-.kontak .php-email-form button[type="submit"]:hover {
+.hubungikami .php-email-form button[type="submit"]:hover {
   background: #2383c4;
 }
 
