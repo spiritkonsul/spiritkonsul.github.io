@@ -696,9 +696,9 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Services
+# jasakami
 --------------------------------------------------------------*/
-.services .icon-box {
+.jasakami .icon-box {
   padding: 30px;
   position: relative;
   overflow: hidden;
@@ -709,7 +709,7 @@ section {
   z-index: 1;
 }
 
-.services .icon-box::before {
+.jasakami .icon-box::before {
   content: '';
   position: absolute;
   background: #e1f0fa;
@@ -722,7 +722,7 @@ section {
   z-index: -1;
 }
 
-.services .icon-box:hover::before {
+.jasakami .icon-box:hover::before {
   background: #3498db;
   right: 0;
   top: 0;
@@ -731,7 +731,7 @@ section {
   border-radius: 0px;
 }
 
-.services .icon {
+.jasakami .icon {
   margin: 0 auto 20px auto;
   padding-top: 10px;
   display: inline-block;
@@ -743,48 +743,48 @@ section {
   transition: all 0.3s ease-in-out;
 }
 
-.services .icon i {
+.jasakami .icon i {
   font-size: 36px;
   line-height: 1;
   color: #fff;
 }
 
-.services .title {
+.jasakami .title {
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
 }
 
-.services .title a {
+.jasakami .title a {
   color: #111;
 }
 
-.services .description {
+.jasakami .description {
   font-size: 15px;
   line-height: 28px;
   margin-bottom: 0;
 }
 
-.services .icon-box:hover .title a, .services .icon-box:hover .description {
+.jasakami .icon-box:hover .title a, .jasakami .icon-box:hover .description {
   color: #fff;
 }
 
-.services .icon-box:hover .icon {
+.jasakami .icon-box:hover .icon {
   background: #fff;
 }
 
-.services .icon-box:hover .icon i {
+.jasakami .icon-box:hover .icon i {
   color: #3498db;
 }
 
 /*--------------------------------------------------------------
-# More Services
+# More jasakami
 --------------------------------------------------------------*/
-.more-services {
+.more-jasakami {
   padding-top: 20px;
 }
 
-.more-services .card {
+.more-jasakami .card {
   border: 0;
   padding: 160px 20px 20px 20px;
   position: relative;
@@ -794,7 +794,7 @@ section {
   background-position: center center;
 }
 
-.more-services .card-body {
+.more-jasakami .card-body {
   z-index: 10;
   background: rgba(255, 255, 255, 0.9);
   padding: 15px 30px;
@@ -804,21 +804,21 @@ section {
   border-radius: 5px;
 }
 
-.more-services .card-title {
+.more-jasakami .card-title {
   font-weight: 700;
   text-align: center;
   margin-bottom: 15px;
 }
 
-.more-services .card-title a {
+.more-jasakami .card-title a {
   color: #222222;
 }
 
-.more-services .card-text {
+.more-jasakami .card-text {
   color: #5e5e5e;
 }
 
-.more-services .read-more a {
+.more-jasakami .read-more a {
   color: #777777;
   text-transform: uppercase;
   font-weight: 600;
@@ -826,15 +826,15 @@ section {
   transition: 0.4s;
 }
 
-.more-services .read-more a:hover {
+.more-jasakami .read-more a:hover {
   text-decoration: underline;
 }
 
-.more-services .card:hover .card-body {
+.more-jasakami .card:hover .card-body {
   background: #3498db;
 }
 
-.more-services .card:hover .read-more a, .more-services .card:hover .card-title, .more-services .card:hover .card-title a, .more-services .card:hover .card-text {
+.more-jasakami .card:hover .read-more a, .more-jasakami .card:hover .card-title, .more-jasakami .card:hover .card-title a, .more-jasakami .card:hover .card-text {
   color: #fff;
 }
 
