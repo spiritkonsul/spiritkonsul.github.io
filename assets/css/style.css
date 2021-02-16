@@ -559,28 +559,28 @@ section {
 }
 
 /*--------------------------------------------------------------
-# About Us
+# tentangkami
 --------------------------------------------------------------*/
-.about .content h3 {
+.tentangkami .content h3 {
   font-weight: 600;
   font-size: 26px;
 }
 
-.about .content ul {
+.tentangkami .content ul {
   list-style: none;
   padding: 0;
 }
 
-.about .content ul li {
+.tentangkami .content ul li {
   padding-left: 28px;
   position: relative;
 }
 
-.about .content ul li + li {
+.tentangkami .content ul li + li {
   margin-top: 10px;
 }
 
-.about .content ul i {
+.tentangkami .content ul i {
   position: absolute;
   left: 0;
   top: 2px;
@@ -589,11 +589,11 @@ section {
   line-height: 1;
 }
 
-.about .content p:last-child {
+.tentangkami .content p:last-child {
   margin-bottom: 0;
 }
 
-.about .content .btn-learn-more {
+.tentangkami .content .btn-learn-more {
   font-family: "Raleway", sans-serif;
   font-weight: 600;
   font-size: 14px;
@@ -610,7 +610,7 @@ section {
   border: 2px solid #3498db;
 }
 
-.about .content .btn-learn-more:hover {
+.tentangkami .content .btn-learn-more:hover {
   background: #3498db;
   color: #fff;
   text-decoration: none;
@@ -1302,7 +1302,7 @@ section {
 /*--------------------------------------------------------------
 # hubungikami
 --------------------------------------------------------------*/
-.hubungikami .hubungikami-about h3 {
+.hubungikami .hubungikami-tentangkami h3 {
   font-size: 28px;
   margin: 0 0 10px 0;
   padding: 0;
@@ -1312,7 +1312,7 @@ section {
   color: #222222;
 }
 
-.hubungikami .hubungikami-about p {
+.hubungikami .hubungikami-tentangkami p {
   font-size: 14px;
   line-height: 24px;
   font-family: "Raleway", sans-serif;
