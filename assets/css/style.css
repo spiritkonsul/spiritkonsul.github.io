@@ -18,14 +18,9 @@ a {
   text-decoration: none;
 }
 #googleForm {
-  /* margin-left: auto;
-  margin-right: auto; */
+  /*margin-left: auto;/*
+  /*margin-right: auto;*/
   text-align: center;
-}
-
-#googleForm {
-  width: 304px;
-  margin: 0 auto;
 }
 
 a:hover {
